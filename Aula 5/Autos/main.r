@@ -1,4 +1,4 @@
-setwd("C:/Users/diogo/code/Analyse de Donne/Aula 5")
+setwd("C:/Users/diogo/code/Analyse de Donne/Aula 5/Autos")
 
 library(FactoMineR)
 
